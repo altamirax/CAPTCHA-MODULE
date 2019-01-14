@@ -8,7 +8,8 @@ http://altamira.sytes.net/Captcha_App/
 Captcha Module simple y facil
 100% operativo
 Puede ver :
-http://altamira.sytes.net/Captcha_App/
+
+http://altamira.sytes.net/Captcha_App/?id_x=es
 
 ok
 
