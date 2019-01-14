@@ -3,7 +3,7 @@
 Модуль Каптча, 100% оперативный, альтернатива для индивидуального проекта
 Линк:
 http://altamira.sytes.net/Captcha_App/
--------------
+
 <hr>
 Captcha Module simple y facil
 100% operativo
