@@ -4,14 +4,14 @@
 
 Линк:
 
-http://altamira.sytes.net/Captcha_App/
+http://altamira.sytes.net/Captcha_App/all_captcha_base
 
 <hr>
 Captcha Module simple y facil
 100% operativo
 Puede ver :
 
-http://altamira.sytes.net/Captcha_App/?id_x=es
+http://altamira.sytes.net/Captcha_App/all_captcha_base?id_x=es
 
 ok
 
