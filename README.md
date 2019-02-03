@@ -12,6 +12,7 @@ http://altamira.sytes.net/Captcha_App/all_captcha_base
 
 <hr>
 Линк на испанском языке:
+
 Puede ver :
 
 http://altamira.sytes.net/Captcha_App/all_captcha_base?id_x=es
