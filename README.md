@@ -1,14 +1,14 @@
-# CAPTCHA-MODULE
+# Модуль Детские Kартинки, CAPTCHA-MODULE
 --------------
-Модуль Каптча, 100% оперативный, альтернатива для индивидуального проекта
+Модуль Детские Kартинки, для изучения слов иностранного языка, 
+100% оперативный, альтернатива для индивидуального проекта
 
-Линк:
+Линк на русском языке:
 
 http://altamira.sytes.net/Captcha_App/all_captcha_base
 
 <hr>
-Captcha Module simple y facil
-100% operativo
+Линк на испанском языке:
 Puede ver :
 
 http://altamira.sytes.net/Captcha_App/all_captcha_base?id_x=es
